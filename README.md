@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nasimuzzaman Touhid
-- 👀 I’m interested in .Net 
+- 👀 I’m interested in Modern .Net 
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
